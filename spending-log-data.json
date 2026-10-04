@@ -8,5 +8,6 @@
 {"id":1791030993612.124,"type":"topup","card":"Yoyoka","amt":100,"cat":"Top-up","pay":"Yoyoka","date":"2026-10-03","u":1791030993612},
 {"id":1791032646941.904,"amt":70,"cat":"Food","note":"tempura's jipai","date":"2026-10-03","pay":"Cash","u":1791032646941},
 {"id":1791040154555.8992,"amt":30,"cat":"Other","note":"laundry","date":"2026-10-03","pay":"Cash","u":1791040154555},
-{"id":1791090171286.739,"amt":60,"cat":"Food","note":"mi cincau","date":"2026-10-04","pay":"Cash","u":1791090171286}
+{"id":1791090171286.739,"amt":60,"cat":"Food","note":"mi cincau","date":"2026-10-04","pay":"Cash","u":1791090171286},
+{"id":1791112977797.1138,"amt":75,"cat":"Transport","note":"","date":"2026-10-04","pay":"Yoyoka","u":1791112977797}
 ]}

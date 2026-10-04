@@ -3,7 +3,7 @@
 {"id":1790951733780.6304,"amt":32,"cat":"Food","note":"es cerim","date":"2026-10-02","pay":"Cash","u":1790951887107},
 {"id":1790951762166.7048,"amt":70,"cat":"Bills","note":"club caligraphy","date":"2026-10-02","pay":"Cash","u":1790951762166},
 {"id":1790951777715.4854,"amt":64,"cat":"Food","note":"sevel tercinta dinner","date":"2026-10-02","pay":"Cash","u":1790951777715},
-{"id":1790956009913.3145,"amt":57,"cat":"Food","note":"banan","date":"2026-10-02","pay":"Cash","u":1790956009913},
+{"id":1790956009913.3145,"amt":57,"cat":"Groceries","note":"banan","date":"2026-10-02","pay":"Cash","u":1791090603359},
 {"id":1791007170603.3057,"amt":90,"cat":"Food","note":"apek tongseng nasgor","date":"2026-10-03","pay":"Cash","u":1791016375042},
 {"id":1791030993612.124,"type":"topup","card":"Yoyoka","amt":100,"cat":"Top-up","pay":"Yoyoka","date":"2026-10-03","u":1791030993612},
 {"id":1791032646941.904,"amt":70,"cat":"Food","note":"tempura's jipai","date":"2026-10-03","pay":"Cash","u":1791032646941},

@@ -16,5 +16,6 @@
 {"id":1791118852527.4087,"amt":30,"cat":"Food","note":"oolong","date":"2026-10-04","pay":"Cash","u":1791183787281,"o":0},
 {"id":1791163574499.666,"type":"topup","card":"Yoyoka","amt":20,"cat":"Top-up","pay":"Yoyoka","date":"2026-10-04","u":1791183792712,"o":5},
 {"id":1791172705202.0476,"amt":24,"cat":"Food","note":"fuli indomies","date":"2026-10-05","pay":"Card","u":1791172705202},
-{"id":1791194504675.153,"amt":75,"cat":"Food","note":"biandang","date":"2026-10-05","pay":"Cash","u":1791194504674}
+{"id":1791194504675.153,"amt":75,"cat":"Food","note":"biandang","date":"2026-10-05","pay":"Cash","u":1791194504674},
+{"id":1791194581458.5886,"amt":30,"cat":"Transport","note":"danshui to linkou","date":"2026-10-04","pay":"Cash","u":1791194581458}
 ]}

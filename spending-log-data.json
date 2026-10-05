@@ -13,5 +13,6 @@
 {"id":1791112983361.033,"amt":5,"cat":"Transport","note":"60-55(the amount i didnt log that was already in my yoyoka)","date":"2026-10-04","pay":"Yoyoka","u":1791163490613},
 {"id":1791116674154.802,"amt":99,"cat":"Food","note":"fuckass yoshinoya","date":"2026-10-04","pay":"Cash","u":1791116674154},
 {"id":1791117588163.5771,"amt":12.5,"cat":"Food","note":"snacks","date":"2026-10-04","pay":"Cash","u":1791117588163},
-{"id":1791118852527.4087,"amt":30,"cat":"Food","note":"oolong","date":"2026-10-04","pay":"Cash","u":1791118852527}
+{"id":1791118852527.4087,"amt":30,"cat":"Food","note":"oolong","date":"2026-10-04","pay":"Cash","u":1791118852527},
+{"id":1791163574499.666,"type":"topup","card":"Yoyoka","amt":20,"cat":"Top-up","pay":"Yoyoka","date":"2026-10-04","u":1791163574499}
 ]}

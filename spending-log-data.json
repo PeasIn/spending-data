@@ -29,5 +29,6 @@
 {"id":1791364174611.6255,"amt":55,"cat":"Groceries","note":"fuli eggs","date":"2026-10-07","pay":"Cash","u":1791364174611},
 {"id":1791426567686.249,"amt":45,"cat":"Groceries","note":"banan","date":"2026-10-08","pay":"Cash","u":1791426582618},
 {"id":1791444048056.8704,"amt":35,"cat":"Food","note":"nasi cincau","date":"2026-10-08","pay":"Cash","u":1791444048056},
-{"id":1791451186504.3242,"amt":85,"cat":"Food","note":"omurice bug version","date":"2026-10-08","pay":"Cash","u":1791451186504}
+{"id":1791451186504.3242,"amt":85,"cat":"Food","note":"omurice bug version","date":"2026-10-08","pay":"Cash","u":1791451186504},
+{"id":1791459548852.2148,"amt":25,"cat":"Food","note":"kentod jipai","date":"2026-10-08","pay":"Cash","u":1791459548852}
 ]}

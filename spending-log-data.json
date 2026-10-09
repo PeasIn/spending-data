@@ -36,5 +36,6 @@
 {"id":1791526963932.1504,"amt":10,"cat":"Transport","note":"cuz ipan fell","date":"2026-10-08","pay":"Yoyoka","u":1791526983075,"o":3},
 {"id":1791527296861.5798,"amt":35,"cat":"Food","note":"protein milk","date":"2026-10-09","pay":"Cash","u":1791527296861},
 {"id":1791538092999.92,"amt":0.1,"cat":"Other","note":"clifton stole me 10","date":"2026-10-09","pay":"Cash","u":1791538092998},
-{"id":1791550571169.3945,"amt":60,"cat":"Food","note":"mi cincau","date":"2026-10-09","pay":"Cash","u":1791550571169}
+{"id":1791550571169.3945,"amt":60,"cat":"Food","note":"mi cincau","date":"2026-10-09","pay":"Cash","u":1791550571169},
+{"id":1791550604521.9604,"type":"topup","card":"test","amt":100,"cat":"Top-up","pay":"test","date":"2026-10-09","u":1791550604521}
 ]}

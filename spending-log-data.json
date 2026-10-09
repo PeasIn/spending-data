@@ -35,5 +35,6 @@
 {"id":1791462312775.2615,"amt":100,"cat":"Shopping","note":"shopi package","date":"2026-10-08","pay":"Cash","u":1791526978938,"o":0},
 {"id":1791526963932.1504,"amt":10,"cat":"Transport","note":"cuz ipan fell","date":"2026-10-08","pay":"Yoyoka","u":1791526983075,"o":3},
 {"id":1791527296861.5798,"amt":35,"cat":"Food","note":"protein milk","date":"2026-10-09","pay":"Cash","u":1791527296861},
-{"id":1791550571169.3945,"amt":60,"cat":"Food","note":"mi cincau","date":"2026-10-09","pay":"Cash","u":1791550571169}
+{"id":1791550571169.3945,"amt":60,"cat":"Food","note":"mi cincau","date":"2026-10-09","pay":"Cash","u":1791550571169},
+{"id":1791556001748.8018,"amt":23,"cat":"Groceries","note":"half a bread from px","date":"2026-10-09","pay":"Cash","u":1791556001748}
 ]}

@@ -45,5 +45,6 @@
 {"id":1791632761814.3325,"amt":50,"cat":"Food","note":"spinny potato","date":"2026-10-10","pay":"Cash","u":1791632854167,"o":0},
 {"id":1791632846540.9329,"amt":25,"cat":"Transport","note":"yuanshan to songshan","date":"2026-10-10","pay":"Yoyoka","u":1791632873712,"o":1},
 {"id":1791634835487.6274,"amt":58,"cat":"Food","note":"sevel","date":"2026-10-10","pay":"Cash","u":1791634835487},
-{"id":1791635273048.6658,"amt":26,"cat":"Food","note":"qing banyu","date":"2026-10-10","pay":"Cash","u":1791635273048}
+{"id":1791635273048.6658,"amt":26,"cat":"Food","note":"qing banyu","date":"2026-10-10","pay":"Cash","u":1791635273048},
+{"id":1791645995954.9436,"amt":30,"cat":"Transport","note":"xiangshan to yuanshan","date":"2026-10-10","pay":"Cash","u":1791645995953}
 ]}

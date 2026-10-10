@@ -39,5 +39,6 @@
 {"id":1791556001748.8018,"amt":23,"cat":"Groceries","note":"half a bread from px","date":"2026-10-09","pay":"Cash","u":1791556001748},
 {"id":1791556021681.2012,"amt":20,"cat":"Groceries","note":"nutella 🤤","date":"2026-10-09","pay":"Cash","u":1791556029343},
 {"id":1791611646811.4978,"amt":50,"cat":"Food","note":"fried chicken with rice","date":"2026-10-10","pay":"Cash","u":1791611646811},
-{"id":1791625239800.105,"amt":20,"cat":"Other","note":"","date":"2026-10-10","pay":"Cash","u":1791625239800}
+{"id":1791625239800.105,"amt":20,"cat":"Other","note":"","date":"2026-10-10","pay":"Cash","u":1791625239800},
+{"id":1791625256676.7385,"amt":30,"cat":"Transport","note":"yuanshan mrt","date":"2026-10-10","pay":"Cash","u":1791625256676}
 ]}

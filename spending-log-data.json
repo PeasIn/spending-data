@@ -49,5 +49,6 @@
 {"id":1791645995954.9436,"amt":30,"cat":"Transport","note":"xiangshan to yuanshan","date":"2026-10-10","pay":"Yoyoka","u":1791646014781},
 {"id":1791646007440.7566,"amt":30,"cat":"Transport","note":"buss","date":"2026-10-10","pay":"Cash","u":1791646007440},
 {"id":1791695319239.6304,"amt":22,"cat":"Groceries","note":"noodles","date":"2026-10-11","pay":"Cash","u":1791697772311},
-{"id":1791697790485.5525,"amt":40,"cat":"Food","note":"chicken","date":"2026-10-11","pay":"Cash","u":1791697796825}
+{"id":1791697790485.5525,"amt":40,"cat":"Food","note":"chicken","date":"2026-10-11","pay":"Cash","u":1791697796825},
+{"id":1791697807677.5686,"amt":25,"cat":"Food","note":"rice","date":"2026-10-11","pay":"Cash","u":1791697807677}
 ]}

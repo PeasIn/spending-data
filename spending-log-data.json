@@ -58,5 +58,6 @@
 {"id":1791804265818.7012,"amt":25,"cat":"Food","note":"kent's jipai","date":"2026-10-12","pay":"Cash","u":1791804265817},
 {"id":1791808274801.0315,"amt":168,"cat":"Groceries","note":"coffee","date":"2026-10-12","pay":"Cash","u":1791808274801},
 {"id":1791865316013.309,"amt":60,"cat":"Food","note":"mi cincau","date":"2026-10-13","pay":"Cash","u":1791865316013},
-{"id":1791867395328.5068,"amt":110,"cat":"Other","note":"work permit","date":"2026-10-13","pay":"Cash","u":1791867395328}
+{"id":1791867395328.5068,"amt":110,"cat":"Other","note":"work permit","date":"2026-10-13","pay":"Cash","u":1791867395328},
+{"id":1791876597974.8,"amt":50,"cat":"Groceries","note":"nutella","date":"2026-10-13","pay":"Cash","u":1791876597974}
 ]}

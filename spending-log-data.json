@@ -61,5 +61,6 @@
 {"id":1791867395328.5068,"amt":110,"cat":"Other","note":"work permit","date":"2026-10-13","pay":"Cash","u":1791867395328},
 {"id":1791876597974.8,"amt":50,"cat":"Groceries","note":"nutella","date":"2026-10-13","pay":"Cash","u":1791876597974},
 {"id":1791951552251.7727,"amt":60,"cat":"Food","note":"mi cincau","date":"2026-10-14","pay":"Cash","u":1791951552250},
-{"id":1791970048627.69,"amt":22,"cat":"Food","note":"indomies","date":"2026-10-14","pay":"Cash","u":1791970048627}
+{"id":1791970048627.69,"amt":22,"cat":"Food","note":"indomies","date":"2026-10-14","pay":"Cash","u":1791970048627},
+{"id":1791975202147.2036,"amt":45,"cat":"Groceries","note":"bread","date":"2026-10-14","pay":"Cash","u":1791975202147}
 ]}

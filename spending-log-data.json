@@ -68,5 +68,6 @@
 {"id":1792056942246.5005,"amt":80,"cat":"Food","note":"jipai","date":"2026-10-15","pay":"Cash","u":1792056942246},
 {"id":1792119708586.921,"amt":15,"cat":"Transport","note":"bus to 101","date":"2026-10-10","pay":"Yoyoka","u":1792119807747,"o":2},
 {"id":1792119836459.0728,"amt":60,"cat":"Food","note":"mi cincau","date":"2026-10-16","pay":"Cash","u":1792119836459},
-{"id":1792121188086.5847,"type":"income","amt":100,"cat":"Funds","note":"dorm card deposit return","pay":"","date":"2026-10-16","u":1792121188086}
+{"id":1792121188086.5847,"type":"income","amt":100,"cat":"Funds","note":"dorm card deposit return","pay":"","date":"2026-10-16","u":1792121188086},
+{"id":1792125606599.937,"amt":35,"cat":"Groceries","note":"banana","date":"2026-10-16","pay":"Cash","u":1792125606598}
 ]}

@@ -47,7 +47,7 @@
 {"id":1791634835487.6274,"amt":58,"cat":"Food","note":"sevel","date":"2026-10-10","pay":"Cash","u":1791634835487},
 {"id":1791635273048.6658,"amt":26,"cat":"Food","note":"qing banyu","date":"2026-10-10","pay":"Cash","u":1791635273048},
 {"id":1791645995954.9436,"amt":30,"cat":"Transport","note":"xiangshan to yuanshan","date":"2026-10-10","pay":"Yoyoka","u":1791646014781},
-{"id":1791646007440.7566,"amt":30,"cat":"Transport","note":"buss","date":"2026-10-10","pay":"Cash","u":1791646007440},
+{"id":1791646007440.7566,"amt":22,"cat":"Transport","note":"buss","date":"2026-10-10","pay":"Cash","u":1792119672010},
 {"id":1791695319239.6304,"amt":22,"cat":"Groceries","note":"noodles","date":"2026-10-11","pay":"Cash","u":1791707605725,"o":3},
 {"id":1791697790485.5525,"amt":40,"cat":"Food","note":"chicken","date":"2026-10-11","pay":"Cash","u":1791707604985,"o":2},
 {"id":1791697807677.5686,"amt":25,"cat":"Food","note":"rice","date":"2026-10-11","pay":"Cash","u":1791707602874,"o":1},

@@ -71,5 +71,6 @@
 {"id":1792121188086.5847,"type":"income","amt":100,"cat":"Funds","note":"dorm card deposit return","pay":"","date":"2026-10-16","u":1792121188086},
 {"id":1792125606599.937,"amt":35,"cat":"Groceries","note":"banana","date":"2026-10-16","pay":"Cash","u":1792125606598},
 {"id":1792147678545.9727,"amt":15,"cat":"Transport","note":"to malatang","date":"2026-10-16","pay":"Yoyoka","u":1792147800054},
-{"id":1792148506588.114,"amt":160,"cat":"Food","note":"matatang dinner 😭","date":"2026-10-16","pay":"Cash","u":1792148506588}
+{"id":1792148506588.114,"amt":160,"cat":"Food","note":"matatang dinner 😭","date":"2026-10-16","pay":"Cash","u":1792148506588},
+{"id":1792156281588.1792,"amt":15,"cat":"Transport","note":"bus home","date":"2026-10-16","pay":"Yoyoka","u":1792156290158}
 ]}

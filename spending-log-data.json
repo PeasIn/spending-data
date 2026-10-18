@@ -81,5 +81,6 @@
 {"id":1792292189813.6108,"type":"income","amt":45,"cat":"Funds","note":"dave's lay's","pay":"","date":"2026-10-17","u":1792292198309,"o":1},
 {"id":1792296539386.1746,"amt":10,"cat":"Transport","note":"freeway bureau","date":"2026-10-18","pay":"Yoyoka","u":1792296610140},
 {"id":1792297236930.9954,"amt":12,"cat":"Transport","note":"mrt yuanshan","date":"2026-10-18","pay":"Yoyoka","u":1792297281814},
-{"id":1792305242920.0125,"type":"topup","card":"學生證","amt":100,"cat":"Top-up","pay":"學生證","date":"2026-10-18","u":1792305242920}
+{"id":1792305242920.0125,"type":"topup","card":"學生證","amt":100,"cat":"Top-up","pay":"學生證","date":"2026-10-18","u":1792305242920},
+{"id":1792305655812.513,"amt":22,"cat":"Transport","note":"mrt to 101","date":"2026-10-18","pay":"Yoyoka","u":1792305655811}
 ]}

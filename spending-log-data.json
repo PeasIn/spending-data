@@ -73,10 +73,10 @@
 {"id":1792147678545.9727,"amt":15,"cat":"Transport","note":"to malatang","date":"2026-10-16","pay":"Yoyoka","u":1792147800054},
 {"id":1792148506588.114,"amt":160,"cat":"Food","note":"matatang dinner 😭","date":"2026-10-16","pay":"Cash","u":1792148506588},
 {"id":1792156281588.1792,"amt":15,"cat":"Transport","note":"bus home","date":"2026-10-16","pay":"Yoyoka","u":1792156290158},
-{"id":1792207599180.7747,"amt":24,"cat":"Food","note":"fuli indomies","date":"2026-10-17","pay":"Cash","u":1792207606330},
-{"id":1792240598344.5535,"amt":100,"cat":"Food","note":"mamake scam","date":"2026-10-17","pay":"Cash","u":1792240598344},
-{"id":1792244458586.747,"amt":35,"cat":"Food","note":"protein milk","date":"2026-10-17","pay":"Cash","u":1792244458586},
+{"id":1792207599180.7747,"amt":24,"cat":"Food","note":"fuli indomies","date":"2026-10-17","pay":"Cash","u":1792292197683,"o":4},
+{"id":1792240598344.5535,"amt":100,"cat":"Food","note":"mamake scam","date":"2026-10-17","pay":"Cash","u":1792292197683,"o":3},
+{"id":1792244458586.747,"amt":35,"cat":"Food","note":"protein milk","date":"2026-10-17","pay":"Cash","u":1792292198309,"o":0},
 {"id":1792261032351.173,"amt":20,"cat":"Fun","note":"gamble","date":"2026-10-18","pay":"Cash","u":1792261038010},
-{"id":1792292178683.6992,"amt":45,"cat":"Other","note":"dave's lay's","date":"2026-10-17","pay":"Yoyoka","u":1792292178683},
-{"id":1792292189813.6108,"type":"income","amt":45,"cat":"Funds","note":"dave's lay's","pay":"","date":"2026-10-17","u":1792292189813}
+{"id":1792292178683.6992,"amt":45,"cat":"Other","note":"dave's lay's","date":"2026-10-17","pay":"Yoyoka","u":1792292197683,"o":2},
+{"id":1792292189813.6108,"type":"income","amt":45,"cat":"Funds","note":"dave's lay's","pay":"","date":"2026-10-17","u":1792292198309,"o":1}
 ]}

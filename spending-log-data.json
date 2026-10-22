@@ -98,5 +98,6 @@
 {"id":1792489819874.8054,"amt":40,"cat":"Other","note":"the greatest pencil lead of all time","date":"2026-10-20","pay":"Cash","u":1792489819874},
 {"id":1792556197399.3252,"amt":85,"cat":"Food","note":"mi cincau w/pangsit","date":"2026-10-21","pay":"Cash","u":1792556197399},
 {"id":1792575599640.6177,"amt":80,"cat":"Food","note":"jipai","date":"2026-10-21","pay":"Cash","u":1792575599640},
-{"id":1792575851136.432,"amt":33,"cat":"Groceries","note":"noodles","date":"2026-10-21","pay":"Cash","u":1792575851136}
+{"id":1792575851136.432,"amt":33,"cat":"Groceries","note":"noodles","date":"2026-10-21","pay":"Cash","u":1792575851136},
+{"id":1792637695310.861,"type":"income","amt":12,"cat":"Funds","note":"","pay":"","date":"2026-10-21","u":1792637695310}
 ]}

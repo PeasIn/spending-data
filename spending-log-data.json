@@ -102,5 +102,6 @@
 {"id":1792637695310.861,"type":"income","amt":12,"cat":"Funds","note":"","pay":"","date":"2026-10-21","u":1792637695310},
 {"id":1792657452112.1108,"amt":60,"cat":"Food","note":"mi cincau","date":"2026-10-22","pay":"Cash","u":1792657452112},
 {"id":1792657472765.7473,"amt":75,"cat":"Food","note":"scam biandang","date":"2026-10-22","pay":"Cash","u":1792659322394},
-{"id":1792672889210.0835,"amt":65,"cat":"Groceries","note":"noodles","date":"2026-10-22","pay":"Cash","u":1792672889210}
+{"id":1792672889210.0835,"amt":65,"cat":"Groceries","note":"noodles","date":"2026-10-22","pay":"Cash","u":1792672889210},
+{"id":1792672913593.6423,"type":"income","amt":1,"cat":"Funds","note":"jeli's paymebint for package","pay":"","date":"2026-10-22","u":1792672913593}
 ]}

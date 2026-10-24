@@ -107,5 +107,6 @@
 {"id":1792744432821.1858,"amt":5,"cat":"Food","note":"dave generous egg","date":"2026-10-23","pay":"Cash","u":1792744432820},
 {"id":1792759301892.908,"amt":45,"cat":"Fun","note":"fuckass gambling","date":"2026-10-23","pay":"Cash","u":1792759301892},
 {"id":1792763237017.0354,"amt":50,"cat":"Fun","note":"FUCKASS GAMBLING","date":"2026-10-23","pay":"Cash","u":1792763237016},
-{"id":1792819090238.6033,"amt":45,"cat":"Food","note":"some jipai? or meat? from fuli","date":"2026-10-24","pay":"Cash","u":1792819090238}
+{"id":1792819090238.6033,"amt":45,"cat":"Food","note":"some jipai? or meat? from fuli","date":"2026-10-24","pay":"Cash","u":1792819090238},
+{"id":1792819385144.5488,"type":"income","amt":15,"cat":"Funds","note":"steve buy my noodle","pay":"","date":"2026-10-24","u":1792819385144}
 ]}

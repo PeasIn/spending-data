@@ -110,5 +110,6 @@
 {"id":1792819090238.6033,"amt":45,"cat":"Food","note":"some jipai? or meat? from fuli","date":"2026-10-24","pay":"Cash","u":1792819090238},
 {"id":1792819385144.5488,"type":"income","amt":15,"cat":"Funds","note":"steve buy my noodle","pay":"","date":"2026-10-24","u":1792819385144},
 {"id":1792831152143.7622,"amt":25,"cat":"Food","note":"bred","date":"2026-10-24","pay":"Cash","u":1792831152142},
-{"id":1792833574336.6353,"amt":35,"cat":"Food","note":"protein milk","date":"2026-10-24","pay":"Cash","u":1792833574336}
+{"id":1792833574336.6353,"amt":35,"cat":"Food","note":"protein milk","date":"2026-10-24","pay":"Cash","u":1792833574336},
+{"id":1792833584822.0212,"amt":5,"cat":"Food","note":"vincent's egg","date":"2026-10-24","pay":"Cash","u":1792833584822}
 ]}

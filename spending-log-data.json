@@ -123,5 +123,6 @@
 {"id":1793005430369.2737,"amt":24,"cat":"Food","note":"fuli noodles","date":"2026-10-26","pay":"Cash","u":1793005430369},
 {"id":1793011859997.5068,"amt":80,"cat":"Food","note":"jipai","date":"2026-10-26","pay":"Cash","u":1793011859996},
 {"id":1793029161631.7043,"type":"income","amt":5,"cat":"Funds","note":"vincent paid fo me soap 😭","pay":"","date":"2026-10-26","u":1793029161631},
-{"id":1793059787097.3894,"amt":45,"cat":"Food","note":"zhuabingdan","date":"2026-10-27","pay":"Cash","u":1793059787096}
+{"id":1793059787097.3894,"amt":45,"cat":"Food","note":"zhuabingdan","date":"2026-10-27","pay":"Cash","u":1793059787096},
+{"id":1793073011460.5662,"amt":55,"cat":"Food","note":"burgir","date":"2026-10-27","pay":"Cash","u":1793073011460}
 ]}

@@ -127,5 +127,6 @@
 {"id":1793073011460.5662,"amt":55,"cat":"Food","note":"burgir","date":"2026-10-27","pay":"Cash","u":1793073011460},
 {"id":1793088519429.461,"amt":40,"cat":"Food","note":"coco","date":"2026-10-27","pay":"Cash","u":1793088519429},
 {"id":1793091339738.6665,"amt":49,"cat":"Food","note":"jipai using $50 discount","date":"2026-10-27","pay":"Cash","u":1793091339738},
-{"id":1793092907387.951,"amt":12,"cat":"Food","note":"fuli noodles","date":"2026-10-27","pay":"Cash","u":1793092907387}
+{"id":1793092907387.951,"amt":12,"cat":"Food","note":"fuli noodles","date":"2026-10-27","pay":"Cash","u":1793092907387},
+{"id":1793092920151.9106,"amt":5,"cat":"Food","note":"rafael's egg","date":"2026-10-27","pay":"Cash","u":1793092920151}
 ]}

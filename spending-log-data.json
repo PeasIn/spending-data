@@ -134,5 +134,6 @@
 {"id":1793160310819.8228,"amt":80,"cat":"Food","note":"nasi babi fried rice","date":"2026-10-28","pay":"Cash","u":1793160310819},
 {"id":1793160332504.5703,"amt":30,"cat":"Fun","note":"clawing machine fun","date":"2026-10-28","pay":"Cash","u":1793160332504},
 {"id":1793189811303.735,"amt":64,"cat":"Food","note":"sevel tercinta","date":"2026-10-28","pay":"Cash","u":1793189811303},
-{"id":1793255964812.9895,"amt":70,"cat":"Food","note":"biandang","date":"2026-10-29","pay":"Cash","u":1793255964812}
+{"id":1793255964812.9895,"amt":70,"cat":"Food","note":"biandang","date":"2026-10-29","pay":"Cash","u":1793255964812},
+{"id":1793267011380.1726,"amt":45,"cat":"Food","note":"bread","date":"2026-10-29","pay":"Cash","u":1793267011380}
 ]}

@@ -144,5 +144,6 @@
 {"id":1793354805194.2014,"amt":650,"cat":"Other","note":"$600 worth of calculator","date":"2026-10-26","pay":"Cash","u":1793360300353},
 {"id":1793360285106.2234,"type":"income","amt":650,"cat":"Funds","note":"not part of the budget","pay":"","date":"2026-10-26","u":1793360285106},
 {"id":1793368027536.8484,"amt":27,"cat":"Groceries","note":"a scam of a banana from the vending machine","date":"2026-10-30","pay":"Cash","u":1793368027536},
-{"id":1793368156304.533,"amt":100,"cat":"Other","note":"deposit to bank","date":"2026-10-30","pay":"Cash","u":1793368156304}
+{"id":1793368156304.533,"amt":100,"cat":"Other","note":"deposit to bank","date":"2026-10-30","pay":"Cash","u":1793368156304},
+{"id":1793368163319.2888,"type":"income","amt":100,"cat":"Funds","note":"","pay":"","date":"2026-10-30","u":1793368163319}
 ]}

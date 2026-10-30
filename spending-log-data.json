@@ -145,5 +145,6 @@
 {"id":1793360285106.2234,"type":"income","amt":650,"cat":"Funds","note":"not part of the budget","pay":"","date":"2026-10-26","u":1793360285106},
 {"id":1793368027536.8484,"amt":27,"cat":"Groceries","note":"a scam of a banana from the vending machine","date":"2026-10-30","pay":"Cash","u":1793370041956,"o":1},
 {"id":1793368156304.533,"amt":100,"cat":"Other","note":"deposit to bank","date":"2026-10-30","pay":"Cash","u":1793370041153,"o":0},
-{"id":1793368175964.863,"type":"income","amt":100,"cat":"Funds","note":"doesnt count into the budget","pay":"","date":"2026-10-30","u":1793370045464,"o":5}
+{"id":1793368175964.863,"type":"income","amt":100,"cat":"Funds","note":"doesnt count into the budget","pay":"","date":"2026-10-30","u":1793370045464,"o":5},
+{"id":1793370059171.333,"type":"income","amt":5,"cat":"Funds","note":"dave buy me egg","pay":"","date":"2026-10-30","u":1793370059171}
 ]}

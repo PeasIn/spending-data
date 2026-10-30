@@ -139,5 +139,6 @@
 {"id":1793267024287.229,"amt":75,"cat":"Food","note":"omurice","date":"2026-10-29","pay":"Cash","u":1793267024287},
 {"id":1793330891564.9868,"amt":60,"cat":"Food","note":"biandang","date":"2026-10-30","pay":"Cash","u":1793330891563},
 {"id":1793352359596.6685,"amt":79,"cat":"Groceries","note":"fuli shits","date":"2026-10-30","pay":"Cash","u":1793352359593},
-{"id":1793354397446.4304,"amt":35,"cat":"Food","note":"protein milk","date":"2026-10-30","pay":"Cash","u":1793354397446}
+{"id":1793354397446.4304,"amt":35,"cat":"Food","note":"protein milk","date":"2026-10-30","pay":"Cash","u":1793354397446},
+{"id":1793354411034.4182,"type":"income","amt":5,"cat":"Funds","note":"dave buy me noodles","pay":"","date":"2026-10-30","u":1793354411034}
 ]}

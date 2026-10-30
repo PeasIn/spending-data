@@ -137,13 +137,13 @@
 {"id":1793255964812.9895,"amt":70,"cat":"Food","note":"biandang","date":"2026-10-29","pay":"Cash","u":1793255964812},
 {"id":1793267011380.1726,"amt":45,"cat":"Groceries","note":"bread","date":"2026-10-29","pay":"Cash","u":1793267016645},
 {"id":1793267024287.229,"amt":75,"cat":"Food","note":"omurice","date":"2026-10-29","pay":"Cash","u":1793267024287},
-{"id":1793330891564.9868,"amt":60,"cat":"Food","note":"biandang","date":"2026-10-30","pay":"Cash","u":1793330891563},
-{"id":1793352359596.6685,"amt":79,"cat":"Groceries","note":"fuli shits","date":"2026-10-30","pay":"Cash","u":1793352359593},
-{"id":1793354397446.4304,"amt":35,"cat":"Food","note":"protein milk","date":"2026-10-30","pay":"Cash","u":1793354397446},
-{"id":1793354411034.4182,"type":"income","amt":5,"cat":"Funds","note":"dave buy me noodles","pay":"","date":"2026-10-30","u":1793354411034},
+{"id":1793330891564.9868,"amt":60,"cat":"Food","note":"biandang","date":"2026-10-30","pay":"Cash","u":1793370041153,"o":6},
+{"id":1793352359596.6685,"amt":79,"cat":"Groceries","note":"fuli shits","date":"2026-10-30","pay":"Cash","u":1793370041153,"o":5},
+{"id":1793354397446.4304,"amt":35,"cat":"Food","note":"protein milk","date":"2026-10-30","pay":"Cash","u":1793370044494,"o":3},
+{"id":1793354411034.4182,"type":"income","amt":5,"cat":"Funds","note":"dave buy me noodles","pay":"","date":"2026-10-30","u":1793370043061,"o":2},
 {"id":1793354805194.2014,"amt":650,"cat":"Other","note":"$600 worth of calculator","date":"2026-10-26","pay":"Cash","u":1793360300353},
 {"id":1793360285106.2234,"type":"income","amt":650,"cat":"Funds","note":"not part of the budget","pay":"","date":"2026-10-26","u":1793360285106},
-{"id":1793368027536.8484,"amt":27,"cat":"Groceries","note":"a scam of a banana from the vending machine","date":"2026-10-30","pay":"Cash","u":1793368027536},
-{"id":1793368156304.533,"amt":100,"cat":"Other","note":"deposit to bank","date":"2026-10-30","pay":"Cash","u":1793368156304},
-{"id":1793368175964.863,"type":"income","amt":100,"cat":"Funds","note":"doesnt count into the budget","pay":"","date":"2026-10-30","u":1793368175964}
+{"id":1793368027536.8484,"amt":27,"cat":"Groceries","note":"a scam of a banana from the vending machine","date":"2026-10-30","pay":"Cash","u":1793370041956,"o":1},
+{"id":1793368156304.533,"amt":100,"cat":"Other","note":"deposit to bank","date":"2026-10-30","pay":"Cash","u":1793370041153,"o":0},
+{"id":1793368175964.863,"type":"income","amt":100,"cat":"Funds","note":"doesnt count into the budget","pay":"","date":"2026-10-30","u":1793370044494,"o":4}
 ]}

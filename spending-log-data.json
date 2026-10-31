@@ -148,5 +148,6 @@
 {"id":1793370059171.333,"type":"income","amt":5,"cat":"Funds","note":"dave buy me egg","pay":"","date":"2026-10-30","u":1793370068100,"o":3},
 {"id":1793434893982.0713,"amt":45,"cat":"Food","note":"that one noodle with minced pork","date":"2026-10-31","pay":"Cash","u":1793434893981},
 {"id":1793435968978.2485,"type":"topup","card":"學生證","amt":200,"cat":"Top-up","pay":"學生證","date":"2026-10-31","u":1793435968978},
-{"id":1793441692198.2375,"amt":35,"cat":"Food","note":"cincau's rice","date":"2026-10-31","pay":"Cash","u":1793441692198}
+{"id":1793441692198.2375,"amt":35,"cat":"Food","note":"cincau's rice","date":"2026-10-31","pay":"Cash","u":1793441692198},
+{"id":1793442879682.7078,"amt":24,"cat":"Transport","note":"yuanshan","date":"2026-10-31","pay":"學生證","u":1793442879682}
 ]}

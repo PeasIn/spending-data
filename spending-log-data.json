@@ -163,5 +163,6 @@
 {"id":1793694215748.6514,"amt":66,"cat":"Groceries","note":"indomie","date":"2026-11-03","pay":"Cash","u":1793694221461},
 {"id":1793694240220.0857,"amt":75,"cat":"Food","note":"jipai","date":"2026-11-03","pay":"Cash","u":1793695022267},
 {"id":1793713251743.6484,"type":"extra","amt":650,"cat":"Extra","note":"scientific calculator","grp":"Shopping","date":"2026-11-03","pay":"Cash","u":1793713251743},
-{"id":1793713338343.6013,"type":"extra","amt":1615,"cat":"Extra","note":"TOCFL test","grp":"","date":"2026-11-03","pay":"Cash","u":1793713338343}
+{"id":1793713338343.6013,"type":"extra","amt":1615,"cat":"Extra","note":"TOCFL test","grp":"","date":"2026-11-03","pay":"Cash","u":1793713338343},
+{"id":1793713403092.2322,"type":"extra","amt":500,"cat":"Extra","note":"the competition deposit","grp":"","date":"2026-11-03","pay":"Cash","u":1793713403092}
 ]}

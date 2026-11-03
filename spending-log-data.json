@@ -161,5 +161,6 @@
 {"id":1793713251743.6484,"type":"extra","amt":650,"cat":"Extra","note":"scientific calculator","grp":"Shopping","date":"2026-11-03","pay":"Cash","u":1793713251743},
 {"id":1793713338343.6013,"type":"extra","amt":1615,"cat":"Extra","note":"TOCFL test","grp":"","date":"2026-11-03","pay":"Cash","u":1793713338343},
 {"id":1793713403092.2322,"type":"extra","amt":500,"cat":"Extra","note":"the competition deposit","grp":"","date":"2026-11-03","pay":"Cash","u":1793713403092},
-{"id":1793713416494.4802,"type":"extra","amt":100,"cat":"Extra","note":"opening bank deposit","grp":"","date":"2026-11-03","pay":"Cash","u":1793713416494}
+{"id":1793713416494.4802,"type":"extra","amt":100,"cat":"Extra","note":"opening bank deposit","grp":"","date":"2026-11-03","pay":"Cash","u":1793713416494},
+{"id":1793713594975.2258,"type":"extra","amt":100,"cat":"Extra","note":"","grp":"","date":"2026-11-03","pay":"學生證","u":1793713594975}
 ]}

@@ -162,5 +162,5 @@
 {"id":1793605411556.8264,"amt":500,"cat":"Other","note":"i forgot the date, but this is for the paobu bisai","date":"2026-11-02","pay":"Cash","u":1793605439715},
 {"id":1793605449681.448,"type":"income","amt":500,"cat":"Funds","note":"","pay":"","date":"2026-11-02","u":1793605449681},
 {"id":1793694208977.503,"amt":70,"cat":"Food","note":"biandang","date":"2026-11-03","pay":"Cash","u":1793694208976},
-{"id":1793694215748.6514,"amt":66,"cat":"Shopping","note":"indomie","date":"2026-11-03","pay":"Cash","u":1793694215748}
+{"id":1793694215748.6514,"amt":66,"cat":"Groceries","note":"indomie","date":"2026-11-03","pay":"Cash","u":1793694221461}
 ]}

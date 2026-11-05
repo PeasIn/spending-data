@@ -167,5 +167,6 @@
 {"id":1793767683256.5657,"amt":60,"cat":"Food","note":"mi cincau","date":"2026-11-04","pay":"Cash","u":1793767683256},
 {"id":1793768517019.984,"amt":41,"cat":"Groceries","note":"banana","date":"2026-11-04","pay":"Cash","u":1793768517019},
 {"id":1793784515587.2896,"type":"extra","amt":290,"cat":"Bills","note":"electricity bill","grp":"","date":"2026-11-04","pay":"Cash","u":1793784515587},
-{"id":1793856160152.932,"amt":90,"cat":"Food","note":"biandang","date":"2026-11-05","pay":"Cash","u":1793856160152}
+{"id":1793856160152.932,"amt":90,"cat":"Food","note":"biandang","date":"2026-11-05","pay":"Cash","u":1793856160152},
+{"id":1793871969073.5996,"amt":95,"cat":"Food","note":"that one egg omlete shop","date":"2026-11-05","pay":"Cash","u":1793871969073}
 ]}

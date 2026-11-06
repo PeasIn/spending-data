@@ -169,5 +169,6 @@
 {"id":1793784515587.2896,"type":"extra","amt":290,"cat":"Bills","note":"electricity bill","grp":"","date":"2026-11-04","pay":"Cash","u":1793784515587},
 {"id":1793856160152.932,"amt":90,"cat":"Food","note":"biandang","date":"2026-11-05","pay":"Cash","u":1793856160152},
 {"id":1793871969073.5996,"amt":95,"cat":"Food","note":"that one egg omlete shop","date":"2026-11-05","pay":"Cash","u":1793871969073},
-{"id":1793931870518.537,"amt":38,"cat":"Food","note":"brown sugar milk","date":"2026-11-06","pay":"學生證","u":1793931870518}
+{"id":1793931870518.537,"amt":38,"cat":"Food","note":"brown sugar milk","date":"2026-11-06","pay":"學生證","u":1793931870518},
+{"id":1793940553945.3,"amt":80,"cat":"Food","note":"biandang","date":"2026-11-06","pay":"Cash","u":1793940553945}
 ]}

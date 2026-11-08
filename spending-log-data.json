@@ -185,5 +185,6 @@
 {"id":1794136786668.6724,"amt":63,"cat":"Food","note":"sevel tercinta","date":"2026-11-08","pay":"Cash","u":1794136786668},
 {"id":1794138350350.825,"type":"extra","amt":12,"cat":"Transport","note":"to \"medical building\"","grp":"","date":"2026-11-08","pay":"學生證","u":1794138350350},
 {"id":1794138363493.184,"type":"extra","amt":37,"cat":"Transport","note":"taoyuan","grp":"","date":"2026-11-08","pay":"學生證","u":1794138363493},
-{"id":1794138419222.9438,"type":"extra","amt":37,"cat":"Transport","note":"back to medical whatever","grp":"","date":"2026-11-08","pay":"學生證","u":1794138419222}
+{"id":1794138419222.9438,"type":"extra","amt":37,"cat":"Transport","note":"back to medical whatever","grp":"","date":"2026-11-08","pay":"學生證","u":1794138419222},
+{"id":1794138429913.3994,"type":"extra","amt":12,"cat":"Transport","note":"home","grp":"","date":"2026-11-08","pay":"學生證","u":1794138429913}
 ]}

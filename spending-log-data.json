@@ -181,5 +181,5 @@
 {"id":1794133512061.3152,"amt":37,"cat":"Transport","note":"back to medical building","date":"2026-11-08","pay":"學生證","u":1794133527483},
 {"id":1794134323652.6873,"type":"topup","card":"學生證","amt":200,"cat":"Top-up","pay":"學生證","date":"2026-11-08","u":1794134323652},
 {"id":1794134339814.9348,"amt":12,"cat":"Transport","note":"home","date":"2026-11-08","pay":"學生證","u":1794134339814},
-{"id":1794134586307.0242,"amt":85,"cat":"Food","note":"work biandang","date":"2026-11-08","pay":"學生證","u":1794134586307}
+{"id":1794134586307.0242,"amt":85,"cat":"Food","note":"work biandang","date":"2026-11-08","pay":"Cash","u":1794134593619}
 ]}

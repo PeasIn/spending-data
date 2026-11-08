@@ -177,9 +177,9 @@
 {"id":1794090317443.9597,"amt":12,"cat":"Transport","note":"bus to \"medical bilding\"","date":"2026-11-08","pay":"學生證","u":1794134601577,"o":7},
 {"id":1794091659290.593,"amt":20,"cat":"Food","note":"delicious ass \"bak\"pao","date":"2026-11-08","pay":"Cash","u":1794134601577,"o":6},
 {"id":1794092473833.8584,"amt":37,"cat":"Transport","note":"to taoyuan","date":"2026-11-08","pay":"學生證","u":1794134601577,"o":5},
-{"id":1794130851457.5996,"amt":25,"cat":"Food","note":"bread bro so hunger","date":"2026-11-08","pay":"Cash","u":1794134601577,"o":4},
-{"id":1794133512061.3152,"amt":37,"cat":"Transport","note":"back to medical building","date":"2026-11-08","pay":"學生證","u":1794134601577,"o":3},
+{"id":1794130851457.5996,"amt":25,"cat":"Food","note":"bread bro so hunger","date":"2026-11-08","pay":"Cash","u":1794134604838,"o":3},
+{"id":1794133512061.3152,"amt":37,"cat":"Transport","note":"back to medical building","date":"2026-11-08","pay":"學生證","u":1794134603961,"o":2},
 {"id":1794134323652.6873,"type":"topup","card":"學生證","amt":200,"cat":"Top-up","pay":"學生證","date":"2026-11-08","u":1794134602881,"o":1},
 {"id":1794134339814.9348,"amt":12,"cat":"Transport","note":"home","date":"2026-11-08","pay":"學生證","u":1794134601577,"o":0},
-{"id":1794134586307.0242,"amt":85,"cat":"Food","note":"work biandang","date":"2026-11-08","pay":"Cash","u":1794134602881,"o":2}
+{"id":1794134586307.0242,"amt":85,"cat":"Food","note":"work biandang","date":"2026-11-08","pay":"Cash","u":1794134604838,"o":4}
 ]}

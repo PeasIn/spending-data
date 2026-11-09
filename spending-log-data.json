@@ -188,5 +188,5 @@
 {"id":1794202147013.4482,"amt":95,"cat":"Food","note":"yummy mi cincau","date":"2026-11-09","pay":"Cash","u":1794202147013},
 {"id":1794203744599.3574,"type":"extra","amt":110,"cat":"Shopping","note":"pillow","grp":"Shopping","date":"2026-11-09","pay":"Cash","u":1794203744599},
 {"id":1794211172603.4407,"amt":30,"cat":"Other","note":"laundry","date":"2026-11-08","pay":"Cash","u":1794211172603},
-{"id":1794221949152.0513,"amt":55,"cat":"Other","note":"fuli egs","date":"2026-11-09","pay":"Cash","u":1794221949152}
+{"id":1794221949152.0513,"amt":55,"cat":"Groceries","note":"fuli eggs","date":"2026-11-09","pay":"Cash","u":1794221956847}
 ]}

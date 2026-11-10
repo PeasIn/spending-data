@@ -191,5 +191,6 @@
 {"id":1794221949152.0513,"amt":55,"cat":"Groceries","note":"fuli eggs","date":"2026-11-09","pay":"Cash","u":1794221956847},
 {"id":1794286132864.555,"amt":110,"cat":"Food","note":"omurice","date":"2026-11-10","pay":"Cash","u":1794286132863},
 {"id":1794300641039.2651,"amt":140,"cat":"Food","note":"spaghetti","date":"2026-11-10","pay":"Cash","u":1794300641039},
-{"id":1794302724517.5073,"amt":27,"cat":"Groceries","note":"doritos","date":"2026-11-10","pay":"Cash","u":1794302724517}
+{"id":1794302724517.5073,"amt":27,"cat":"Groceries","note":"doritos","date":"2026-11-10","pay":"Cash","u":1794302724517},
+{"id":1794309285526.4592,"type":"income","amt":6,"cat":"Funds","note":"dave buy me egg","pay":"","date":"2026-11-10","u":1794309285526}
 ]}

@@ -194,5 +194,6 @@
 {"id":1794302724517.5073,"amt":27,"cat":"Groceries","note":"doritos","date":"2026-11-10","pay":"Cash","u":1794302724517},
 {"id":1794309285526.4592,"type":"income","amt":6,"cat":"Funds","note":"dave buy me egg","pay":"","date":"2026-11-10","u":1794309285526},
 {"id":1794362542459.132,"amt":45,"cat":"Food","note":"zhuabingdan","date":"2026-11-11","pay":"Cash","u":1794362542458},
-{"id":1794379756229.0427,"amt":75,"cat":"Food","note":"biandang","date":"2026-11-11","pay":"Cash","u":1794379756229}
+{"id":1794379756229.0427,"amt":75,"cat":"Food","note":"biandang","date":"2026-11-11","pay":"Cash","u":1794379756229},
+{"id":1794388992466.756,"amt":48,"cat":"Groceries","note":"indomie","date":"2026-11-11","pay":"Cash","u":1794388992466}
 ]}

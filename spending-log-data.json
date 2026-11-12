@@ -197,5 +197,6 @@
 {"id":1794379756229.0427,"amt":75,"cat":"Food","note":"biandang","date":"2026-11-11","pay":"Cash","u":1794379756229},
 {"id":1794388992466.756,"amt":48,"cat":"Groceries","note":"indomie","date":"2026-11-11","pay":"Cash","u":1794388992466},
 {"id":1794453050219.4783,"amt":66,"cat":"Groceries","note":"indomie","date":"2026-11-12","pay":"Cash","u":1794453050218},
-{"id":1794453111105.0605,"amt":40,"cat":"Groceries","note":"watermelon","date":"2026-11-12","pay":"Cash","u":1794453111105}
+{"id":1794453111105.0605,"amt":40,"cat":"Groceries","note":"watermelon","date":"2026-11-12","pay":"Cash","u":1794453111105},
+{"id":1794453126935.1584,"amt":90,"cat":"Food","note":"mi cincau","date":"2026-11-12","pay":"Cash","u":1794453126935}
 ]}

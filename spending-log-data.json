@@ -200,6 +200,6 @@
 {"id":1794453111105.0605,"amt":40,"cat":"Groceries","note":"watermelon","date":"2026-11-12","pay":"Cash","u":1794453111105},
 {"id":1794453126935.1584,"amt":90,"cat":"Food","note":"mi cincau","date":"2026-11-12","pay":"Cash","u":1794453126935},
 {"id":1794543382378.1987,"amt":120,"cat":"Food","note":"taipei biandang","date":"2026-11-13","pay":"Cash","u":1794543382376},
-{"id":1794629405506.5063,"amt":12,"cat":"Other","note":"dawei bus money","date":"2026-11-14","pay":"Cash","u":1794629405506},
+{"id":1794629405506.5063,"amt":12,"cat":"Transport","note":"dawei bus money","date":"2026-11-14","pay":"Cash","u":1794629423448},
 {"id":1794629417089.676,"amt":12,"cat":"Transport","note":"to mamake","date":"2026-11-14","pay":"學生證","u":1794629417089}
 ]}

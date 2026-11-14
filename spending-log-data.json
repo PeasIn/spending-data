@@ -202,5 +202,6 @@
 {"id":1794543382378.1987,"amt":120,"cat":"Food","note":"taipei biandang","date":"2026-11-13","pay":"Cash","u":1794543382376},
 {"id":1794629417089.676,"amt":12,"cat":"Transport","note":"to mamake","date":"2026-11-14","pay":"學生證","u":1794639780212,"o":2},
 {"id":1794639748133.8547,"amt":10,"cat":"Food","note":"beer","date":"2026-11-14","pay":"Cash","u":1794639780212,"o":0},
-{"id":1794639776267.931,"amt":100,"cat":"Food","note":"mamake","date":"2026-11-14","pay":"Cash","u":1794639780212,"o":1}
+{"id":1794639776267.931,"amt":100,"cat":"Food","note":"mamake","date":"2026-11-14","pay":"Cash","u":1794639780212,"o":1},
+{"id":1794671048154.3994,"type":"income","amt":5,"cat":"Funds","note":"dave buy me nutella","pay":"","date":"2026-11-14","u":1794671048154}
 ]}

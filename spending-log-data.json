@@ -206,5 +206,6 @@
 {"id":1794671048154.3994,"type":"income","amt":5,"cat":"Funds","note":"dave buy me nutella","pay":"","date":"2026-11-14","u":1794697601260,"o":0},
 {"id":1794671060610.9966,"type":"extra","amt":151,"cat":"Groceries","note":"coffee","grp":"","date":"2026-11-14","pay":"Cash","u":1794671071714},
 {"id":1794697595921.3208,"amt":45,"cat":"Groceries","note":"bread","date":"2026-11-14","pay":"Cash","u":1794697604834,"o":2},
-{"id":1794697943893.2493,"type":"income","amt":15,"cat":"Funds","note":"scammed steve 🤣😂","pay":"","date":"2026-11-15","u":1794697943893}
+{"id":1794697943893.2493,"type":"income","amt":15,"cat":"Funds","note":"scammed steve 🤣😂","pay":"","date":"2026-11-15","u":1794697943893},
+{"id":1794699670331.8955,"type":"income","amt":15,"cat":"Funds","note":"scammed again 🤣🤣","pay":"","date":"2026-11-15","u":1794699670331}
 ]}

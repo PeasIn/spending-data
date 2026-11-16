@@ -223,5 +223,6 @@
 {"id":1794825519916.5713,"type":"topup","card":"學生證","amt":200,"cat":"Top-up","pay":"學生證","date":"2026-11-16","u":1794825519916},
 {"id":1794825533961.7803,"amt":66,"cat":"Fun","note":"jagermeister","date":"2026-11-16","pay":"Cash","u":1794825533961},
 {"id":1794825990977.2183,"type":"extra","amt":151,"cat":"Groceries","note":"some peanut butter","grp":"","date":"2026-11-16","pay":"Cash","u":1794828412755,"o":0},
-{"id":1794828401561.932,"type":"extra","amt":300,"cat":"Other","note":"international exchange deposit","grp":"","date":"2026-11-16","pay":"Cash","u":1794828412755,"o":1}
+{"id":1794828401561.932,"type":"extra","amt":300,"cat":"Other","note":"international exchange deposit","grp":"","date":"2026-11-16","pay":"Cash","u":1794828412755,"o":1},
+{"id":1794847704647.4697,"type":"income","amt":10,"cat":"Funds","note":"","pay":"","date":"2026-11-17","u":1794847704647}
 ]}

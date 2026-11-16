@@ -220,5 +220,6 @@
 {"id":1794812009280.1536,"amt":12,"cat":"Transport","note":"home","date":"2026-11-16","pay":"學生證","u":1794812009280},
 {"id":1794823736378.2031,"amt":8,"cat":"Transport","note":"fucking bicycle is a piece of shit","date":"2026-11-16","pay":"學生證","u":1794823736378},
 {"id":1794824759215.3245,"amt":62,"cat":"Other","note":"pengyou's gift","date":"2026-11-16","pay":"Cash","u":1794824777104},
-{"id":1794825519916.5713,"type":"topup","card":"學生證","amt":200,"cat":"Top-up","pay":"學生證","date":"2026-11-16","u":1794825519916}
+{"id":1794825519916.5713,"type":"topup","card":"學生證","amt":200,"cat":"Top-up","pay":"學生證","date":"2026-11-16","u":1794825519916},
+{"id":1794825533961.7803,"amt":66,"cat":"Fun","note":"jagermeister","date":"2026-11-16","pay":"Cash","u":1794825533961}
 ]}

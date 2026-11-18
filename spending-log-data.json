@@ -227,5 +227,6 @@
 {"id":1794847724461.2415,"type":"income","amt":10,"cat":"Funds","note":"vincent buy me bread bro","pay":"","date":"2026-11-17","u":1794847724461},
 {"id":1794894340594.011,"amt":80,"cat":"Food","note":"biandang","date":"2026-11-17","pay":"Cash","u":1794894340594},
 {"id":1794904959188.827,"amt":75,"cat":"Food","note":"biandang","date":"2026-11-17","pay":"Cash","u":1794904959188},
-{"id":1794974958021.8757,"amt":100,"cat":"Food","note":"niu rou mian","date":"2026-11-18","pay":"Cash","u":1794974965424}
+{"id":1794974958021.8757,"amt":100,"cat":"Food","note":"niu rou mian","date":"2026-11-18","pay":"Cash","u":1794974965424},
+{"id":1795015227294.7869,"amt":24,"cat":"Food","note":"indomies","date":"2026-11-18","pay":"Cash","u":1795015227294}
 ]}

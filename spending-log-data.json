@@ -233,10 +233,10 @@
 {"id":1795084200967.009,"amt":100,"cat":"Food","note":"mamake","date":"2026-11-19","pay":"Cash","u":1795084200967},
 {"id":1795148135503.7544,"amt":100,"cat":"Food","note":"niu rou mian","date":"2026-11-20","pay":"Cash","u":1795148135503},
 {"id":1795160165031.8865,"amt":66,"cat":"Groceries","note":"indomies","date":"2026-11-20","pay":"Cash","u":1795160165031},
-{"id":1795244372883.9614,"amt":46,"cat":"Food","note":"the drink from festival","date":"2026-11-21","pay":"Cash","u":1795244372883},
-{"id":1795244395454.9666,"amt":24,"cat":"Food","note":"noodles","date":"2026-11-21","pay":"Cash","u":1795244395454},
-{"id":1795255320978.1453,"amt":12,"cat":"Transport","note":"","date":"2026-11-21","pay":"學生證","u":1795255320978},
-{"id":1795277897419.9873,"amt":40,"cat":"Other","note":"scammed by pengyou","date":"2026-11-21","pay":"Cash","u":1795277902397},
-{"id":1795277953652.6692,"amt":30,"cat":"Other","note":"laundry","date":"2026-11-21","pay":"Cash","u":1795277953652},
-{"id":1795278028468.9934,"amt":35,"cat":"Food","note":"protein milk","date":"2026-11-21","pay":"Cash","u":1795278028468}
+{"id":1795244372883.9614,"amt":46,"cat":"Food","note":"the drink from festival","date":"2026-11-21","pay":"Cash","u":1795278034250,"o":5},
+{"id":1795244395454.9666,"amt":24,"cat":"Food","note":"noodles","date":"2026-11-21","pay":"Cash","u":1795278034250,"o":4},
+{"id":1795255320978.1453,"amt":12,"cat":"Transport","note":"","date":"2026-11-21","pay":"學生證","u":1795278034250,"o":3},
+{"id":1795277897419.9873,"amt":40,"cat":"Other","note":"scammed by pengyou","date":"2026-11-21","pay":"Cash","u":1795278034250,"o":2},
+{"id":1795277953652.6692,"amt":30,"cat":"Other","note":"laundry","date":"2026-11-21","pay":"Cash","u":1795278034250,"o":0},
+{"id":1795278028468.9934,"amt":35,"cat":"Food","note":"protein milk","date":"2026-11-21","pay":"Cash","u":1795278034250,"o":1}
 ]}

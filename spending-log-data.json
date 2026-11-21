@@ -233,5 +233,6 @@
 {"id":1795084200967.009,"amt":100,"cat":"Food","note":"mamake","date":"2026-11-19","pay":"Cash","u":1795084200967},
 {"id":1795148135503.7544,"amt":100,"cat":"Food","note":"niu rou mian","date":"2026-11-20","pay":"Cash","u":1795148135503},
 {"id":1795160165031.8865,"amt":66,"cat":"Groceries","note":"indomies","date":"2026-11-20","pay":"Cash","u":1795160165031},
-{"id":1795244372883.9614,"amt":46,"cat":"Food","note":"the drink from festival","date":"2026-11-21","pay":"Cash","u":1795244372883}
+{"id":1795244372883.9614,"amt":46,"cat":"Food","note":"the drink from festival","date":"2026-11-21","pay":"Cash","u":1795244372883},
+{"id":1795244395454.9666,"amt":24,"cat":"Food","note":"noodles","date":"2026-11-21","pay":"Cash","u":1795244395454}
 ]}

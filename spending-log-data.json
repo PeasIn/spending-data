@@ -241,5 +241,5 @@
 {"id":1795278028468.9934,"amt":35,"cat":"Food","note":"protein milk","date":"2026-11-21","pay":"Cash","u":1795278034250,"o":1},
 {"id":1795322024726.1284,"amt":75,"cat":"Food","note":"lomie","date":"2026-11-22","pay":"Cash","u":1795322024726},
 {"id":1795322054147.1084,"amt":19,"cat":"Food","note":"onigiri","date":"2026-11-22","pay":"Cash","u":1795322054147},
-{"id":1795330361108.2761,"type":"extra","amt":270,"cat":"Extra","note":"lockpicking set","grp":"Shopping","date":"2026-11-22","pay":"Cash","u":1795330361108}
+{"id":1795330361108.2761,"type":"extra","amt":270,"cat":"Shopping","note":"lockpicking set","grp":"","date":"2026-11-22","pay":"Cash","u":1795330481482}
 ]}

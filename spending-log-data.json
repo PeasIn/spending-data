@@ -244,5 +244,6 @@
 {"id":1795338114072.0068,"amt":6,"cat":"Food","note":"dave's egg","date":"2026-11-22","pay":"Cash","u":1795338114072},
 {"id":1795341675059.179,"amt":100,"cat":"Food","note":"that one pangsit shop","date":"2026-11-22","pay":"Cash","u":1795341675059},
 {"id":1795344044107.4485,"type":"extra","amt":75,"cat":"Shopping","note":"butter knife","grp":"","date":"2026-11-22","pay":"Cash","u":1795344044107},
-{"id":1795353957216.6394,"amt":45,"cat":"Groceries","note":"bread","date":"2026-11-22","pay":"Cash","u":1795353957216}
+{"id":1795353957216.6394,"amt":45,"cat":"Groceries","note":"bread","date":"2026-11-22","pay":"Cash","u":1795353957216},
+{"id":1795402012557.3035,"amt":200,"cat":"Groceries","note":"","date":"2026-11-22","pay":"Cash","u":1795402012557}
 ]}

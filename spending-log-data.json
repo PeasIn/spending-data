@@ -250,5 +250,6 @@
 {"id":1795410401738.0598,"amt":20,"cat":"Fun","note":"fuckass claw machine","date":"2026-11-23","pay":"Cash","u":1795410401737},
 {"id":1795491186732.4944,"amt":80,"cat":"Food","note":"biandang","date":"2026-11-24","pay":"Cash","u":1795491186732},
 {"id":1795491582431.6099,"amt":35,"cat":"Food","note":"protein milk","date":"2026-11-24","pay":"Cash","u":1795491582431},
-{"id":1795510528398.2778,"amt":19,"cat":"Food","note":"onigiri","date":"2026-11-24","pay":"Cash","u":1795510528398}
+{"id":1795510528398.2778,"amt":19,"cat":"Food","note":"onigiri","date":"2026-11-24","pay":"Cash","u":1795510528398},
+{"id":1795510888426.2126,"amt":75,"cat":"Food","note":"omurice","date":"2026-11-24","pay":"Cash","u":1795510888426}
 ]}

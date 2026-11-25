@@ -252,5 +252,6 @@
 {"id":1795491582431.6099,"amt":35,"cat":"Food","note":"protein milk","date":"2026-11-24","pay":"Cash","u":1795491582431},
 {"id":1795510528398.2778,"amt":19,"cat":"Food","note":"onigiri","date":"2026-11-24","pay":"Cash","u":1795510528398},
 {"id":1795510888426.2126,"amt":75,"cat":"Food","note":"omurice","date":"2026-11-24","pay":"Cash","u":1795510888426},
-{"id":1795579581812.142,"amt":100,"cat":"Food","note":"mi cincau","date":"2026-11-25","pay":"Cash","u":1795579581811}
+{"id":1795579581812.142,"amt":100,"cat":"Food","note":"mi cincau","date":"2026-11-25","pay":"Cash","u":1795579581811},
+{"id":1795594680510.916,"amt":80,"cat":"Groceries","note":"class 'black sale'","date":"2026-11-25","pay":"Cash","u":1795594680510}
 ]}

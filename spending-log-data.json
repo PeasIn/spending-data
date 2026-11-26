@@ -256,7 +256,7 @@
 {"id":1795653738826.1172,"type":"income","amt":60,"cat":"Funds","note":"justin buy me skm","pay":"","date":"2026-11-25","u":1795653738826},
 {"id":1795653941393.584,"type":"income","amt":14,"cat":"Funds","note":"dave supposed payment on my jam(s)","pay":"","date":"2026-11-26","u":1795653941393},
 {"id":1795673253072.8015,"amt":75,"cat":"Food","note":"biandang","date":"2026-11-26","pay":"Cash","u":1795673253072},
-{"id":1795684150751.1003,"amt":39,"cat":"Groceries","note":"noodles","date":"2026-11-26","pay":"Cash","u":1795684150751},
+{"id":1795684150751.1003,"amt":39,"cat":"Food","note":"noodles","date":"2026-11-26","pay":"Cash","u":1795699585184},
 {"id":1795699559437.4087,"amt":19,"cat":"Food","note":"onigiri","date":"2026-11-26","pay":"Cash","u":1795699559437},
 {"id":1795699580944.7764,"amt":22,"cat":"Food","note":"duoliduozi","date":"2026-11-26","pay":"Cash","u":1795699580944}
 ]}

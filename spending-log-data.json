@@ -261,5 +261,6 @@
 {"id":1795699580944.7764,"amt":22,"cat":"Food","note":"duoliduozi","date":"2026-11-26","pay":"Cash","u":1795699580944},
 {"id":1795705187317.3445,"amt":100,"cat":"Other","note":"kent","date":"2026-11-26","pay":"Cash","u":1795705187317},
 {"id":1795747480546.996,"amt":55,"cat":"Food","note":"that nasi babi gulung","date":"2026-11-27","pay":"Cash","u":1795747480546},
-{"id":1795748319867.8247,"type":"extra","amt":327,"cat":"Other","note":"paket akong osbron","date":"2026-11-27","pay":"Cash","u":1795748325806}
+{"id":1795748319867.8247,"type":"extra","amt":327,"cat":"Other","note":"paket akong osbron","date":"2026-11-27","pay":"Cash","u":1795748325806},
+{"id":1795770640634.012,"amt":75,"cat":"Food","note":"biandang","date":"2026-11-27","pay":"Cash","u":1795770640634}
 ]}

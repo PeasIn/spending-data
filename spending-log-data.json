@@ -266,5 +266,6 @@
 {"id":1795777677740.2788,"amt":35,"cat":"Food","note":"protein milk","date":"2026-11-27","pay":"Cash","u":1795777677740},
 {"id":1795850124498.5544,"amt":49,"cat":"Food","note":"noodles","date":"2026-11-28","pay":"Cash","u":1795859344633,"o":2},
 {"id":1795856040804.6836,"amt":69,"cat":"Food","note":"chick(en) breast","date":"2026-11-28","pay":"Cash","u":1795859344633,"o":0},
-{"id":1795859326443.305,"amt":108,"cat":"Groceries","note":"laojie's egg","date":"2026-11-28","pay":"Cash","u":1795859344633,"o":1}
+{"id":1795859326443.305,"amt":108,"cat":"Groceries","note":"laojie's egg","date":"2026-11-28","pay":"Cash","u":1795859344633,"o":1},
+{"id":1795859652341.736,"amt":36,"cat":"Food","note":"fuli's noodles","date":"2026-11-28","pay":"Cash","u":1795859652341}
 ]}
